@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv(r'C:\Users\PCAdmin\OneDrive - Douglas College\Documents\4th Semester\3_Machine_Learning/student_data.csv')
+df = pd.read_csv(r'student_data.csv')
 
 #Task1
 print(df.head(5))  # Display the first few rows of the DataFrame
