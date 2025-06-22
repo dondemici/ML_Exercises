@@ -1,0 +1,956 @@
+﻿index,age,educ,sex,race,polviews,polviews_num,marijuana,marijuana01
+0,60,16,male,white,slightly liberal,3,should be legal,1
+1,76,13,male,white,moderate,4,should be legal,1
+2,61,16,female,other,conservative,6,should not be legal,0
+3,20,14,female,white,liberal,2,should be legal,1
+4,56,14,female,white,moderate,4,should be legal,1
+5,22,15,female,white,liberal,2,should be legal,1
+6,43,20,female,white,liberal,2,should be legal,1
+7,65,12,male,white,slightly conservative,5,should be legal,1
+8,62,13,female,white,moderate,4,should not be legal,0
+9,62,8,female,white,liberal,2,should be legal,1
+10,29,17,male,white,moderate,4,should be legal,1
+11,51,16,female,white,moderate,4,should not be legal,0
+12,24,16,female,other,extremely liberal,1,should be legal,1
+13,26,12,female,other,moderate,4,should not be legal,0
+14,30,14,male,white,slightly conservative,5,should not be legal,0
+15,31,13,female,white,slightly liberal,3,should be legal,1
+16,64,14,male,white,moderate,4,should be legal,1
+17,51,15,female,white,moderate,4,should be legal,1
+18,55,12,female,other,liberal,2,should not be legal,0
+19,62,12,female,white,conservative,6,should be legal,1
+20,42,16,male,white,liberal,2,should be legal,1
+21,28,13,male,black,slightly liberal,3,should be legal,1
+22,41,16,male,white,moderate,4,should be legal,1
+23,41,20,female,white,conservative,6,should be legal,1
+24,22,15,female,white,liberal,2,should be legal,1
+25,28,16,male,white,liberal,2,should be legal,1
+26,71,16,female,white,conservative,6,should not be legal,0
+27,25,17,male,white,liberal,2,should be legal,1
+28,28,16,female,white,extremely liberal,1,should be legal,1
+29,61,18,female,white,liberal,2,should be legal,1
+30,53,19,female,white,extremely liberal,1,should be legal,1
+31,87,12,male,white,conservative,6,should not be legal,0
+32,74,14,male,black,moderate,4,should be legal,1
+33,41,20,female,white,slightly conservative,5,should be legal,1
+34,79,18,female,white,moderate,4,should be legal,1
+35,74,16,male,black,slightly conservative,5,should be legal,1
+36,65,12,male,white,slightly conservative,5,should not be legal,0
+37,36,16,female,other,conservative,6,should not be legal,0
+38,40,17,female,white,slightly liberal,3,should be legal,1
+39,57,12,male,white,slightly liberal,3,should be legal,1
+40,41,12,female,black,moderate,4,should be legal,1
+41,45,14,female,other,slightly conservative,5,should be legal,1
+42,52,14,male,black,conservative,6,should be legal,1
+43,50,12,female,white,slightly conservative,5,should be legal,1
+44,51,17,female,black,slightly conservative,5,should not be legal,0
+45,44,14,female,white,moderate,4,should be legal,1
+46,46,18,female,black,moderate,4,should be legal,1
+47,67,12,male,white,moderate,4,should be legal,1
+48,42,15,female,black,moderate,4,should not be legal,0
+49,34,20,female,white,liberal,2,should be legal,1
+50,39,12,male,white,slightly conservative,5,should be legal,1
+51,68,15,male,other,moderate,4,should be legal,1
+52,45,12,female,white,conservative,6,should be legal,1
+53,74,16,female,white,extremely liberal,1,should be legal,1
+54,32,16,male,white,moderate,4,should not be legal,0
+55,67,12,male,white,slightly liberal,3,should be legal,1
+56,57,17,male,white,slightly liberal,3,should be legal,1
+57,36,12,male,white,moderate,4,should be legal,1
+58,34,15,female,white,liberal,2,should be legal,1
+59,61,15,female,white,conservative,6,should not be legal,0
+60,48,12,female,other,slightly conservative,5,should not be legal,0
+61,32,19,female,white,liberal,2,should be legal,1
+62,37,16,female,white,extremely liberal,1,should be legal,1
+63,65,13,male,other,slightly liberal,3,should be legal,1
+64,34,13,female,white,slightly conservative,5,should be legal,1
+65,69,17,male,white,liberal,2,should be legal,1
+66,57,16,male,white,extremely liberal,1,should be legal,1
+67,66,12,male,white,liberal,2,should be legal,1
+68,74,17,female,white,moderate,4,should be legal,1
+70,47,14,male,white,conservative,6,should be legal,1
+71,59,18,female,white,moderate,4,should not be legal,0
+72,45,12,male,other,moderate,4,should not be legal,0
+73,39,18,male,white,liberal,2,should be legal,1
+74,60,14,male,white,moderate,4,should be legal,1
+75,53,15,male,white,moderate,4,should be legal,1
+76,64,14,female,white,moderate,4,should not be legal,0
+78,62,14,male,white,moderate,4,should be legal,1
+79,56,11,female,white,moderate,4,should be legal,1
+80,43,13,female,black,liberal,2,should be legal,1
+81,31,16,female,other,conservative,6,should not be legal,0
+82,27,16,female,white,slightly liberal,3,should be legal,1
+83,26,18,female,white,slightly conservative,5,should be legal,1
+84,45,18,male,white,moderate,4,should be legal,1
+85,36,18,male,white,slightly liberal,3,should be legal,1
+86,52,19,female,white,moderate,4,should not be legal,0
+87,49,12,female,white,moderate,4,should be legal,1
+88,22,13,male,white,liberal,2,should be legal,1
+89,56,12,male,black,moderate,4,should be legal,1
+90,55,15,female,white,moderate,4,should be legal,1
+91,60,16,male,white,slightly conservative,5,should not be legal,0
+92,66,12,male,white,moderate,4,should be legal,1
+93,80,12,female,white,slightly conservative,5,should not be legal,0
+94,47,16,male,white,conservative,6,should not be legal,0
+95,47,14,female,white,moderate,4,should be legal,1
+96,33,12,female,white,moderate,4,should be legal,1
+97,27,17,male,white,liberal,2,should be legal,1
+98,35,16,female,white,moderate,4,should not be legal,0
+99,70,14,male,white,conservative,6,should be legal,1
+100,35,16,male,white,slightly liberal,3,should be legal,1
+101,41,16,female,white,extremely liberal,1,should be legal,1
+102,34,14,female,white,moderate,4,should be legal,1
+103,32,8,male,other,conservative,6,should not be legal,0
+104,67,14,male,white,conservative,6,should be legal,1
+105,49,18,female,white,slightly conservative,5,should be legal,1
+106,33,17,female,white,slightly liberal,3,should be legal,1
+107,40,12,male,white,moderate,4,should be legal,1
+108,53,12,female,white,moderate,4,should be legal,1
+109,72,18,male,white,moderate,4,should be legal,1
+110,63,18,male,white,moderate,4,should be legal,1
+111,36,16,female,white,extremely liberal,1,should be legal,1
+112,76,19,male,white,slightly liberal,3,should be legal,1
+113,39,13,female,black,moderate,4,should be legal,1
+114,34,12,female,white,moderate,4,should be legal,1
+115,37,14,female,black,moderate,4,should be legal,1
+116,81,16,male,white,conservative,6,should not be legal,0
+117,70,16,female,white,liberal,2,should be legal,1
+118,76,16,female,white,slightly conservative,5,should not be legal,0
+119,79,14,male,white,slightly conservative,5,should be legal,1
+120,39,12,female,white,moderate,4,should be legal,1
+121,80,16,female,black,moderate,4,should not be legal,0
+123,66,16,female,white,slightly liberal,3,should be legal,1
+124,74,12,male,white,moderate,4,should not be legal,0
+125,41,14,female,white,conservative,6,should be legal,1
+126,32,13,female,white,extremely liberal,1,should not be legal,0
+128,46,13,female,black,liberal,2,should be legal,1
+129,35,12,female,white,moderate,4,should be legal,1
+130,69,19,male,white,slightly conservative,5,should be legal,1
+131,30,14,female,other,moderate,4,should be legal,1
+132,48,16,male,white,moderate,4,should be legal,1
+133,24,17,female,white,extremely liberal,1,should be legal,1
+134,65,16,female,white,liberal,2,should be legal,1
+135,77,12,male,white,conservative,6,should not be legal,0
+136,29,12,male,white,moderate,4,should be legal,1
+137,69,16,male,white,extremely liberal,1,should be legal,1
+138,62,16,male,white,conservative,6,should not be legal,0
+139,84,12,male,white,moderate,4,should be legal,1
+140,40,20,female,white,slightly liberal,3,should be legal,1
+141,89,12,male,white,moderate,4,should not be legal,0
+142,80,15,female,black,liberal,2,should be legal,1
+143,81,16,male,white,moderate,4,should not be legal,0
+144,22,14,female,white,slightly liberal,3,should be legal,1
+146,55,12,female,white,moderate,4,should not be legal,0
+147,55,18,female,white,moderate,4,should not be legal,0
+148,27,19,male,other,liberal,2,should be legal,1
+149,55,14,female,black,moderate,4,should be legal,1
+150,25,10,male,white,moderate,4,should be legal,1
+151,67,13,male,white,slightly conservative,5,should not be legal,0
+152,28,16,male,white,extremely liberal,1,should be legal,1
+153,43,14,female,white,moderate,4,should be legal,1
+154,34,11,female,white,moderate,4,should be legal,1
+155,69,18,female,white,extremely liberal,1,should be legal,1
+156,72,12,female,white,moderate,4,should be legal,1
+157,85,12,female,white,slightly conservative,5,should not be legal,0
+158,54,14,female,white,moderate,4,should be legal,1
+159,77,18,male,white,slightly liberal,3,should be legal,1
+161,31,17,female,white,liberal,2,should be legal,1
+162,48,18,male,white,extremely liberal,1,should be legal,1
+163,47,13,male,other,moderate,4,should be legal,1
+164,60,15,male,white,conservative,6,should not be legal,0
+165,62,12,male,white,moderate,4,should be legal,1
+166,60,12,female,white,conservative,6,should not be legal,0
+167,49,12,female,white,liberal,2,should be legal,1
+168,37,14,female,white,moderate,4,should be legal,1
+169,26,15,male,white,moderate,4,should be legal,1
+171,58,15,female,white,conservative,6,should be legal,1
+173,55,15,female,white,moderate,4,should be legal,1
+174,39,16,female,white,moderate,4,should be legal,1
+175,27,16,male,white,slightly conservative,5,should be legal,1
+176,29,12,female,white,moderate,4,should be legal,1
+177,57,15,female,white,liberal,2,should be legal,1
+179,33,14,female,white,moderate,4,should be legal,1
+181,52,15,male,white,slightly liberal,3,should be legal,1
+182,50,10,female,black,slightly conservative,5,should be legal,1
+183,41,16,male,white,slightly conservative,5,should be legal,1
+184,51,20,male,white,conservative,6,should not be legal,0
+185,40,16,female,white,extremely liberal,1,should be legal,1
+186,48,13,male,white,slightly liberal,3,should be legal,1
+187,39,12,male,other,moderate,4,should be legal,1
+188,25,17,female,white,liberal,2,should be legal,1
+189,37,13,female,white,moderate,4,should be legal,1
+190,81,20,male,white,moderate,4,should not be legal,0
+191,66,18,female,white,liberal,2,should be legal,1
+192,49,16,male,white,liberal,2,should be legal,1
+193,69,16,female,white,slightly liberal,3,should be legal,1
+194,47,19,female,white,moderate,4,should be legal,1
+195,75,8,female,white,slightly conservative,5,should be legal,1
+196,39,18,male,white,slightly conservative,5,should not be legal,0
+197,53,12,male,white,slightly conservative,5,should be legal,1
+198,58,14,male,white,slightly liberal,3,should be legal,1
+199,61,10,male,white,slightly conservative,5,should be legal,1
+200,35,14,female,white,conservative,6,should be legal,1
+201,58,12,female,white,slightly conservative,5,should be legal,1
+202,59,16,female,white,slightly liberal,3,should be legal,1
+203,31,16,male,white,slightly conservative,5,should be legal,1
+204,62,20,female,white,liberal,2,should be legal,1
+205,40,12,female,white,slightly conservative,5,should be legal,1
+206,74,16,male,white,liberal,2,should be legal,1
+207,71,16,female,white,liberal,2,should be legal,1
+208,51,16,female,white,slightly liberal,3,should be legal,1
+209,55,12,female,white,liberal,2,should be legal,1
+211,40,20,female,black,slightly liberal,3,should be legal,1
+212,58,15,male,white,liberal,2,should be legal,1
+213,41,17,male,white,liberal,2,should be legal,1
+214,73,18,female,white,liberal,2,should be legal,1
+215,29,14,female,white,slightly liberal,3,should be legal,1
+216,64,17,male,other,moderate,4,should be legal,1
+217,52,14,male,white,moderate,4,should be legal,1
+218,59,18,male,other,moderate,4,should be legal,1
+219,63,14,female,black,liberal,2,should not be legal,0
+220,61,16,female,other,moderate,4,should not be legal,0
+221,38,19,female,white,slightly conservative,5,should not be legal,0
+222,36,15,female,black,liberal,2,should not be legal,0
+223,23,17,female,white,slightly liberal,3,should be legal,1
+224,25,12,female,other,extremely liberal,1,should be legal,1
+225,54,14,female,black,moderate,4,should be legal,1
+226,38,14,male,white,moderate,4,should be legal,1
+227,80,18,male,white,conservative,6,should not be legal,0
+228,72,14,female,white,moderate,4,should be legal,1
+229,52,16,male,white,liberal,2,should be legal,1
+230,28,14,male,white,moderate,4,should be legal,1
+231,46,16,male,white,slightly liberal,3,should be legal,1
+232,47,14,female,white,conservative,6,should be legal,1
+233,36,15,male,black,conservative,6,should not be legal,0
+234,83,18,female,white,slightly liberal,3,should not be legal,0
+235,34,11,female,black,moderate,4,should be legal,1
+236,81,14,male,white,moderate,4,should not be legal,0
+237,23,11,female,white,moderate,4,should be legal,1
+238,73,12,female,white,conservative,6,should not be legal,0
+239,45,15,male,white,slightly liberal,3,should not be legal,0
+240,65,16,female,white,moderate,4,should be legal,1
+242,44,14,female,white,moderate,4,should be legal,1
+243,42,15,male,white,slightly conservative,5,should be legal,1
+244,81,18,male,white,slightly liberal,3,should be legal,1
+245,52,17,male,white,liberal,2,should be legal,1
+246,34,16,male,white,slightly liberal,3,should be legal,1
+247,72,16,male,white,conservative,6,should not be legal,0
+248,79,16,male,white,conservative,6,should be legal,1
+249,54,18,female,white,liberal,2,should be legal,1
+250,64,16,male,white,extremely liberal,1,should be legal,1
+251,56,20,male,white,liberal,2,should be legal,1
+252,38,17,male,other,slightly liberal,3,should be legal,1
+253,62,12,female,white,moderate,4,should not be legal,0
+254,42,20,male,white,extremely liberal,1,should be legal,1
+255,37,14,female,other,moderate,4,should not be legal,0
+256,69,16,male,white,moderate,4,should not be legal,0
+257,84,14,female,white,moderate,4,should be legal,1
+258,65,12,male,black,moderate,4,should be legal,1
+259,54,17,male,other,moderate,4,should be legal,1
+260,61,16,male,white,moderate,4,should be legal,1
+261,32,16,male,white,slightly liberal,3,should be legal,1
+262,58,18,female,white,extremely liberal,1,should be legal,1
+263,54,16,female,black,moderate,4,should be legal,1
+264,76,20,male,white,conservative,6,should not be legal,0
+265,29,16,female,white,slightly liberal,3,should not be legal,0
+266,37,11,female,black,slightly conservative,5,should be legal,1
+267,30,14,male,white,liberal,2,should be legal,1
+268,34,16,female,white,moderate,4,should be legal,1
+269,61,12,male,white,moderate,4,should be legal,1
+270,43,12,male,black,moderate,4,should not be legal,0
+271,64,12,female,white,moderate,4,should not be legal,0
+272,48,16,female,black,liberal,2,should be legal,1
+273,67,13,male,white,moderate,4,should be legal,1
+274,46,19,male,white,slightly conservative,5,should not be legal,0
+275,39,13,female,white,moderate,4,should not be legal,0
+276,69,17,male,white,slightly liberal,3,should be legal,1
+277,49,20,male,white,extremely liberal,1,should be legal,1
+278,39,14,female,black,moderate,4,should be legal,1
+279,49,16,female,white,slightly liberal,3,should be legal,1
+280,29,16,female,white,slightly liberal,3,should be legal,1
+281,59,16,female,other,slightly liberal,3,should be legal,1
+282,64,17,male,white,slightly liberal,3,should be legal,1
+283,43,15,female,white,slightly liberal,3,should be legal,1
+284,75,12,male,white,slightly liberal,3,should be legal,1
+285,30,16,female,black,conservative,6,should not be legal,0
+286,75,18,male,white,conservative,6,should not be legal,0
+287,74,12,male,white,moderate,4,should be legal,1
+288,56,12,male,black,moderate,4,should be legal,1
+289,68,16,male,black,moderate,4,should not be legal,0
+290,46,19,female,black,slightly liberal,3,should be legal,1
+291,19,12,male,other,slightly liberal,3,should be legal,1
+293,78,13,male,black,moderate,4,should be legal,1
+294,37,13,female,black,moderate,4,should not be legal,0
+295,46,16,female,black,slightly conservative,5,should be legal,1
+296,31,12,male,white,slightly conservative,5,should be legal,1
+297,49,13,female,white,liberal,2,should be legal,1
+298,42,20,female,white,extremely liberal,1,should be legal,1
+299,68,12,male,white,conservative,6,should be legal,1
+300,41,13,female,white,moderate,4,should be legal,1
+301,85,14,male,white,moderate,4,should not be legal,0
+303,55,14,female,black,moderate,4,should be legal,1
+304,70,20,male,white,extremely liberal,1,should be legal,1
+305,59,10,male,white,slightly conservative,5,should be legal,1
+307,75,14,female,black,moderate,4,should be legal,1
+308,37,16,female,white,extremely liberal,1,should be legal,1
+309,26,16,female,white,moderate,4,should be legal,1
+310,69,17,male,white,slightly liberal,3,should be legal,1
+311,62,17,male,white,conservative,6,should be legal,1
+312,73,16,female,white,extremely liberal,1,should be legal,1
+313,46,16,male,white,slightly conservative,5,should be legal,1
+314,52,17,female,white,moderate,4,should not be legal,0
+315,38,18,female,white,moderate,4,should be legal,1
+316,57,20,female,black,moderate,4,should not be legal,0
+317,55,18,male,white,moderate,4,should not be legal,0
+318,70,14,male,white,moderate,4,should be legal,1
+320,41,14,male,white,moderate,4,should be legal,1
+321,80,15,female,white,slightly liberal,3,should be legal,1
+323,87,12,female,white,moderate,4,should be legal,1
+324,58,16,male,white,slightly conservative,5,should not be legal,0
+325,62,18,female,white,liberal,2,should be legal,1
+326,66,16,male,white,conservative,6,should be legal,1
+327,33,16,male,white,slightly conservative,5,should be legal,1
+328,75,20,female,white,conservative,6,should be legal,1
+329,61,12,female,white,slightly conservative,5,should be legal,1
+330,53,14,female,white,slightly liberal,3,should be legal,1
+332,49,14,female,white,conservative,6,should be legal,1
+333,57,14,female,black,conservative,6,should be legal,1
+334,86,18,male,white,moderate,4,should be legal,1
+335,68,9,female,white,conservative,6,should be legal,1
+336,60,14,female,white,liberal,2,should be legal,1
+337,54,16,female,white,conservative,6,should not be legal,0
+338,50,16,female,white,moderate,4,should be legal,1
+339,62,11,female,white,slightly liberal,3,should be legal,1
+340,49,14,female,white,moderate,4,should not be legal,0
+341,34,12,female,white,moderate,4,should be legal,1
+342,70,16,female,white,moderate,4,should be legal,1
+343,41,12,male,white,moderate,4,should be legal,1
+344,47,14,female,white,conservative,6,should be legal,1
+345,53,16,male,white,moderate,4,should not be legal,0
+347,72,14,female,black,moderate,4,should be legal,1
+348,43,12,male,white,extremely liberal,1,should be legal,1
+349,44,13,female,white,conservative,6,should be legal,1
+350,45,14,female,white,moderate,4,should be legal,1
+352,48,16,male,white,moderate,4,should be legal,1
+355,24,16,male,white,extremely liberal,1,should be legal,1
+356,26,11,female,white,extremely liberal,1,should be legal,1
+357,38,16,female,white,moderate,4,should be legal,1
+358,63,20,female,white,slightly liberal,3,should be legal,1
+359,38,12,female,white,slightly liberal,3,should be legal,1
+360,74,14,female,white,slightly conservative,5,should not be legal,0
+361,63,12,female,black,extremely liberal,1,should be legal,1
+362,81,12,male,black,extremely liberal,1,should be legal,1
+363,62,16,female,black,moderate,4,should be legal,1
+364,57,12,female,white,moderate,4,should not be legal,0
+365,36,14,male,white,slightly conservative,5,should be legal,1
+366,52,16,male,white,moderate,4,should be legal,1
+367,29,12,male,white,moderate,4,should be legal,1
+368,45,16,female,black,slightly conservative,5,should be legal,1
+369,29,18,female,white,moderate,4,should be legal,1
+370,89,16,male,white,slightly conservative,5,should not be legal,0
+371,66,14,female,black,slightly conservative,5,should not be legal,0
+372,66,13,male,white,conservative,6,should not be legal,0
+373,62,13,female,white,conservative,6,should not be legal,0
+374,70,14,female,white,slightly conservative,5,should be legal,1
+375,43,13,female,white,moderate,4,should be legal,1
+376,40,16,male,white,slightly liberal,3,should be legal,1
+377,50,19,male,other,moderate,4,should be legal,1
+378,73,13,female,white,moderate,4,should be legal,1
+379,30,18,female,white,liberal,2,should be legal,1
+380,39,12,male,white,moderate,4,should be legal,1
+381,60,13,female,white,moderate,4,should be legal,1
+382,31,14,male,white,slightly conservative,5,should be legal,1
+383,86,14,male,white,slightly conservative,5,should not be legal,0
+384,59,18,female,white,liberal,2,should be legal,1
+385,41,16,female,white,moderate,4,should be legal,1
+386,45,12,male,white,moderate,4,should be legal,1
+387,42,13,female,white,moderate,4,should be legal,1
+388,81,12,male,white,slightly liberal,3,should be legal,1
+389,73,13,male,white,conservative,6,should not be legal,0
+390,87,12,female,white,conservative,6,should be legal,1
+391,77,12,male,white,slightly conservative,5,should be legal,1
+392,63,20,male,white,conservative,6,should not be legal,0
+393,62,12,female,white,conservative,6,should not be legal,0
+394,31,14,female,white,liberal,2,should be legal,1
+395,74,12,female,white,moderate,4,should not be legal,0
+396,71,15,female,white,conservative,6,should not be legal,0
+397,62,16,female,white,moderate,4,should not be legal,0
+398,68,12,female,white,moderate,4,should be legal,1
+399,59,16,female,white,slightly conservative,5,should be legal,1
+401,57,12,female,black,moderate,4,should be legal,1
+403,33,12,male,white,moderate,4,should be legal,1
+404,63,16,female,white,liberal,2,should be legal,1
+405,61,11,female,white,conservative,6,should be legal,1
+406,34,14,male,white,conservative,6,should be legal,1
+407,89,16,female,white,moderate,4,should not be legal,0
+408,79,18,male,white,moderate,4,should be legal,1
+409,70,12,male,white,moderate,4,should not be legal,0
+410,89,12,female,white,slightly conservative,5,should not be legal,0
+412,64,18,male,white,slightly liberal,3,should be legal,1
+413,35,12,female,white,moderate,4,should be legal,1
+414,72,13,female,other,moderate,4,should be legal,1
+415,56,12,male,white,conservative,6,should be legal,1
+416,28,12,male,white,moderate,4,should be legal,1
+417,60,12,male,white,conservative,6,should be legal,1
+418,28,18,female,white,moderate,4,should be legal,1
+419,66,20,female,white,slightly conservative,5,should be legal,1
+420,85,12,male,white,conservative,6,should not be legal,0
+421,34,16,male,white,slightly conservative,5,should be legal,1
+422,40,16,female,white,conservative,6,should be legal,1
+423,50,18,male,white,extremely liberal,1,should be legal,1
+424,36,16,female,white,liberal,2,should be legal,1
+425,35,18,male,white,slightly liberal,3,should be legal,1
+426,46,14,male,black,extremely liberal,1,should be legal,1
+427,74,12,male,black,moderate,4,should be legal,1
+428,33,12,male,white,liberal,2,should be legal,1
+429,31,14,female,black,moderate,4,should be legal,1
+430,47,16,female,white,moderate,4,should not be legal,0
+431,53,12,male,white,slightly conservative,5,should be legal,1
+432,51,13,male,white,conservative,6,should not be legal,0
+433,75,13,female,white,conservative,6,should not be legal,0
+434,74,14,male,white,conservative,6,should not be legal,0
+435,47,11,female,black,extremely liberal,1,should be legal,1
+436,34,13,female,white,slightly liberal,3,should be legal,1
+437,68,12,female,white,slightly liberal,3,should be legal,1
+438,35,14,male,white,slightly liberal,3,should be legal,1
+439,54,14,female,white,moderate,4,should be legal,1
+440,62,12,female,white,moderate,4,should be legal,1
+441,69,12,female,white,moderate,4,should be legal,1
+442,42,11,male,white,moderate,4,should be legal,1
+443,40,14,male,white,conservative,6,should be legal,1
+444,34,16,female,white,liberal,2,should be legal,1
+445,40,17,female,white,slightly conservative,5,should be legal,1
+447,68,12,female,white,slightly conservative,5,should be legal,1
+448,77,16,female,white,conservative,6,should not be legal,0
+449,47,12,female,black,slightly liberal,3,should be legal,1
+450,36,11,female,black,moderate,4,should be legal,1
+451,57,16,female,white,slightly conservative,5,should be legal,1
+452,40,9,female,white,moderate,4,should be legal,1
+453,29,16,female,white,liberal,2,should be legal,1
+454,70,16,male,white,conservative,6,should be legal,1
+455,52,16,female,white,slightly liberal,3,should be legal,1
+456,63,15,male,white,slightly conservative,5,should be legal,1
+457,68,16,male,white,slightly conservative,5,should be legal,1
+458,37,16,female,white,conservative,6,should be legal,1
+459,77,20,female,white,moderate,4,should be legal,1
+460,34,15,female,black,conservative,6,should be legal,1
+461,82,20,male,black,slightly liberal,3,should be legal,1
+462,60,16,female,white,slightly conservative,5,should be legal,1
+464,40,16,male,white,moderate,4,should be legal,1
+465,33,16,male,white,slightly conservative,5,should be legal,1
+466,62,14,male,white,conservative,6,should be legal,1
+467,51,14,female,black,liberal,2,should be legal,1
+468,34,16,male,white,slightly conservative,5,should be legal,1
+469,36,12,female,white,moderate,4,should be legal,1
+470,27,13,male,white,slightly liberal,3,should be legal,1
+471,39,12,male,white,moderate,4,should be legal,1
+472,48,14,male,white,slightly conservative,5,should be legal,1
+473,60,16,female,white,slightly liberal,3,should be legal,1
+474,67,20,male,white,moderate,4,should not be legal,0
+475,49,11,male,white,moderate,4,should be legal,1
+476,43,18,male,white,moderate,4,should not be legal,0
+477,62,14,male,white,conservative,6,should not be legal,0
+478,48,12,male,white,moderate,4,should be legal,1
+479,34,13,female,white,slightly conservative,5,should be legal,1
+480,43,15,male,other,moderate,4,should be legal,1
+481,45,16,female,white,liberal,2,should be legal,1
+482,34,16,female,white,slightly liberal,3,should be legal,1
+483,74,18,female,white,liberal,2,should be legal,1
+484,26,16,male,white,slightly liberal,3,should be legal,1
+485,54,18,male,white,moderate,4,should not be legal,0
+486,75,16,male,white,liberal,2,should be legal,1
+487,34,16,female,other,slightly conservative,5,should not be legal,0
+488,20,12,female,white,extremely liberal,1,should be legal,1
+489,42,13,male,white,conservative,6,should be legal,1
+490,85,12,male,white,conservative,6,should not be legal,0
+491,42,18,male,white,liberal,2,should be legal,1
+492,41,14,male,white,conservative,6,should be legal,1
+493,59,16,male,white,liberal,2,should be legal,1
+494,29,13,male,other,moderate,4,should be legal,1
+495,44,18,female,white,extremely liberal,1,should be legal,1
+496,37,19,male,white,liberal,2,should be legal,1
+497,71,20,female,white,slightly liberal,3,should be legal,1
+498,40,12,male,white,moderate,4,should be legal,1
+499,41,12,female,white,moderate,4,should be legal,1
+500,66,14,female,white,conservative,6,should not be legal,0
+501,25,17,female,white,moderate,4,should be legal,1
+502,31,20,female,other,slightly liberal,3,should not be legal,0
+503,27,16,male,white,extremely liberal,1,should be legal,1
+504,37,19,male,other,moderate,4,should not be legal,0
+505,20,13,female,white,moderate,4,should be legal,1
+506,70,18,female,white,slightly liberal,3,should not be legal,0
+507,49,17,male,white,moderate,4,should be legal,1
+508,30,14,male,other,slightly liberal,3,should be legal,1
+509,76,13,male,other,liberal,2,should be legal,1
+511,33,15,female,white,slightly liberal,3,should be legal,1
+512,30,14,female,white,moderate,4,should be legal,1
+513,50,20,male,other,extremely liberal,1,should not be legal,0
+514,57,14,female,black,moderate,4,should be legal,1
+515,48,12,male,white,liberal,2,should be legal,1
+516,27,18,male,other,extremely liberal,1,should be legal,1
+517,41,20,female,white,liberal,2,should not be legal,0
+518,48,16,female,white,moderate,4,should be legal,1
+519,58,18,female,white,slightly liberal,3,should be legal,1
+520,24,12,female,other,moderate,4,should not be legal,0
+521,33,12,male,white,moderate,4,should not be legal,0
+522,63,18,male,other,slightly conservative,5,should be legal,1
+523,59,16,female,white,liberal,2,should be legal,1
+524,44,14,male,other,conservative,6,should not be legal,0
+525,51,12,female,other,moderate,4,should be legal,1
+526,24,16,female,other,liberal,2,should be legal,1
+527,37,12,male,other,moderate,4,should be legal,1
+528,23,17,female,white,moderate,4,should be legal,1
+529,30,16,male,white,liberal,2,should be legal,1
+530,36,20,female,other,slightly liberal,3,should not be legal,0
+531,80,12,female,white,liberal,2,should be legal,1
+532,32,14,male,white,slightly conservative,5,should be legal,1
+533,45,15,female,white,liberal,2,should be legal,1
+534,39,12,male,white,moderate,4,should be legal,1
+535,41,12,female,white,moderate,4,should be legal,1
+536,39,13,male,white,moderate,4,should not be legal,0
+537,67,16,female,white,conservative,6,should not be legal,0
+538,33,16,male,white,moderate,4,should be legal,1
+539,24,12,male,white,moderate,4,should be legal,1
+540,57,20,female,other,liberal,2,should not be legal,0
+541,32,20,male,white,extremely liberal,1,should be legal,1
+542,34,19,male,other,liberal,2,should be legal,1
+543,52,14,male,white,extremely liberal,1,should be legal,1
+544,40,13,female,white,liberal,2,should be legal,1
+545,61,16,male,white,slightly liberal,3,should be legal,1
+546,74,13,female,white,extremely liberal,1,should be legal,1
+547,55,14,female,white,moderate,4,should be legal,1
+548,66,16,female,other,conservative,6,should not be legal,0
+549,82,14,female,white,slightly liberal,3,should be legal,1
+550,32,14,male,white,slightly conservative,5,should be legal,1
+551,82,12,female,white,moderate,4,should not be legal,0
+552,63,12,female,white,conservative,6,should not be legal,0
+553,56,14,male,white,conservative,6,should be legal,1
+554,40,16,male,white,liberal,2,should be legal,1
+555,34,15,female,other,moderate,4,should be legal,1
+556,70,18,female,white,moderate,4,should be legal,1
+557,63,16,female,white,slightly liberal,3,should be legal,1
+558,24,16,female,white,liberal,2,should be legal,1
+559,56,12,female,white,conservative,6,should not be legal,0
+560,29,8,female,white,moderate,4,should be legal,1
+561,61,20,female,white,liberal,2,should be legal,1
+563,69,16,female,white,extremely liberal,1,should be legal,1
+564,52,17,male,white,liberal,2,should be legal,1
+565,27,17,male,white,conservative,6,should not be legal,0
+566,63,12,female,white,liberal,2,should be legal,1
+567,74,12,male,white,moderate,4,should be legal,1
+568,61,12,female,white,moderate,4,should be legal,1
+569,38,20,female,other,slightly liberal,3,should be legal,1
+570,35,16,male,white,liberal,2,should be legal,1
+571,32,16,male,other,moderate,4,should be legal,1
+572,81,14,female,white,moderate,4,should not be legal,0
+573,24,16,male,white,moderate,4,should be legal,1
+574,80,12,male,white,conservative,6,should not be legal,0
+575,42,12,male,black,liberal,2,should be legal,1
+576,78,19,male,white,extremely liberal,1,should be legal,1
+577,58,20,female,white,extremely liberal,1,should be legal,1
+578,23,13,male,black,liberal,2,should be legal,1
+580,29,16,male,white,slightly liberal,3,should be legal,1
+581,37,12,female,white,moderate,4,should be legal,1
+582,70,13,female,white,moderate,4,should be legal,1
+583,65,18,female,white,liberal,2,should be legal,1
+584,28,12,female,white,extremely liberal,1,should be legal,1
+585,37,14,female,white,conservative,6,should be legal,1
+586,31,12,male,white,slightly conservative,5,should not be legal,0
+587,47,14,female,white,conservative,6,should not be legal,0
+588,84,18,male,white,slightly conservative,5,should not be legal,0
+589,67,13,female,white,moderate,4,should be legal,1
+590,70,19,female,white,slightly conservative,5,should not be legal,0
+591,69,17,male,white,liberal,2,should be legal,1
+592,39,16,male,other,slightly liberal,3,should be legal,1
+593,44,10,male,white,moderate,4,should be legal,1
+594,68,12,female,white,moderate,4,should not be legal,0
+595,30,16,male,white,liberal,2,should be legal,1
+596,28,12,female,white,extremely liberal,1,should be legal,1
+597,50,18,female,black,moderate,4,should be legal,1
+598,69,12,female,white,liberal,2,should be legal,1
+599,49,16,male,white,slightly conservative,5,should be legal,1
+600,75,16,female,black,moderate,4,should be legal,1
+601,36,16,female,black,moderate,4,should be legal,1
+602,78,16,female,white,liberal,2,should be legal,1
+603,62,12,female,white,moderate,4,should be legal,1
+604,74,16,female,white,slightly liberal,3,should be legal,1
+605,55,16,female,white,liberal,2,should not be legal,0
+606,86,12,male,white,slightly conservative,5,should not be legal,0
+607,48,18,female,white,liberal,2,should be legal,1
+608,32,13,male,other,liberal,2,should be legal,1
+609,39,11,male,black,moderate,4,should be legal,1
+610,67,12,female,white,liberal,2,should be legal,1
+612,68,12,male,white,slightly conservative,5,should be legal,1
+613,36,14,female,white,moderate,4,should be legal,1
+614,20,12,female,other,extremely liberal,1,should be legal,1
+615,42,16,female,white,conservative,6,should be legal,1
+616,46,12,female,black,moderate,4,should be legal,1
+617,63,17,female,black,conservative,6,should not be legal,0
+618,67,12,female,white,liberal,2,should be legal,1
+619,55,11,female,white,moderate,4,should be legal,1
+620,58,12,male,white,moderate,4,should be legal,1
+621,34,14,male,white,conservative,6,should be legal,1
+622,29,8,female,white,moderate,4,should not be legal,0
+623,70,18,male,white,conservative,6,should not be legal,0
+625,38,3,female,white,slightly conservative,5,should not be legal,0
+626,69,16,male,white,moderate,4,should be legal,1
+627,58,16,female,white,extremely liberal,1,should be legal,1
+628,62,15,male,white,moderate,4,should be legal,1
+629,42,16,male,white,conservative,6,should be legal,1
+630,46,14,male,white,slightly conservative,5,should be legal,1
+631,69,15,female,white,conservative,6,should be legal,1
+632,63,9,female,white,liberal,2,should be legal,1
+633,34,13,female,white,moderate,4,should be legal,1
+634,53,12,male,white,slightly conservative,5,should not be legal,0
+635,59,12,female,white,slightly conservative,5,should be legal,1
+636,39,16,female,white,moderate,4,should not be legal,0
+637,34,19,female,black,slightly conservative,5,should be legal,1
+638,62,12,male,black,moderate,4,should be legal,1
+639,65,14,female,black,moderate,4,should be legal,1
+640,51,9,male,other,slightly conservative,5,should not be legal,0
+641,70,19,male,white,moderate,4,should be legal,1
+642,65,17,female,white,moderate,4,should be legal,1
+643,26,18,female,white,slightly conservative,5,should be legal,1
+644,22,15,female,other,extremely liberal,1,should be legal,1
+645,34,16,female,white,slightly liberal,3,should be legal,1
+646,65,12,male,white,conservative,6,should be legal,1
+647,43,16,male,other,conservative,6,should not be legal,0
+648,35,17,male,white,slightly conservative,5,should not be legal,0
+649,57,13,female,black,moderate,4,should be legal,1
+650,77,17,male,white,slightly liberal,3,should be legal,1
+651,28,18,male,white,extremely liberal,1,should be legal,1
+652,61,19,male,white,slightly liberal,3,should be legal,1
+653,33,16,male,other,liberal,2,should be legal,1
+655,83,14,male,white,extremely liberal,1,should be legal,1
+656,29,16,female,white,slightly conservative,5,should be legal,1
+657,34,17,female,other,slightly liberal,3,should be legal,1
+658,86,12,female,white,moderate,4,should be legal,1
+659,55,16,male,white,slightly liberal,3,should be legal,1
+660,66,12,female,white,conservative,6,should not be legal,0
+661,24,13,female,white,liberal,2,should be legal,1
+662,70,16,male,white,conservative,6,should not be legal,0
+663,25,16,female,white,slightly liberal,3,should be legal,1
+664,48,16,male,white,liberal,2,should be legal,1
+665,64,13,male,white,conservative,6,should not be legal,0
+666,54,16,female,white,moderate,4,should be legal,1
+667,59,9,female,white,conservative,6,should be legal,1
+668,74,19,male,white,slightly liberal,3,should not be legal,0
+669,36,15,female,black,extremely liberal,1,should be legal,1
+670,69,8,male,white,conservative,6,should be legal,1
+671,63,18,male,white,slightly conservative,5,should be legal,1
+673,65,12,female,white,moderate,4,should not be legal,0
+674,81,15,female,white,conservative,6,should not be legal,0
+675,30,12,female,white,moderate,4,should be legal,1
+676,57,19,male,white,slightly liberal,3,should be legal,1
+677,40,14,male,white,moderate,4,should be legal,1
+678,78,11,female,white,moderate,4,should not be legal,0
+679,41,16,female,white,extremely liberal,1,should be legal,1
+680,56,17,female,black,slightly liberal,3,should be legal,1
+681,51,14,male,other,liberal,2,should not be legal,0
+682,60,20,female,white,liberal,2,should be legal,1
+683,64,15,male,other,moderate,4,should not be legal,0
+684,32,16,female,white,liberal,2,should be legal,1
+685,70,16,female,white,liberal,2,should be legal,1
+686,67,17,male,black,moderate,4,should be legal,1
+687,71,18,male,white,liberal,2,should be legal,1
+688,58,16,male,other,liberal,2,should be legal,1
+689,42,12,male,white,moderate,4,should be legal,1
+690,43,13,female,other,moderate,4,should be legal,1
+691,37,14,male,black,moderate,4,should not be legal,0
+692,77,13,female,white,conservative,6,should not be legal,0
+693,74,13,male,white,moderate,4,should be legal,1
+694,49,20,male,white,slightly conservative,5,should be legal,1
+695,64,16,female,white,moderate,4,should not be legal,0
+696,58,12,female,black,moderate,4,should be legal,1
+697,66,14,male,other,slightly conservative,5,should be legal,1
+698,62,16,male,white,slightly liberal,3,should be legal,1
+699,63,16,female,black,moderate,4,should not be legal,0
+700,48,16,female,white,moderate,4,should be legal,1
+701,28,15,female,white,moderate,4,should not be legal,0
+702,83,12,female,white,moderate,4,should be legal,1
+703,48,9,female,black,moderate,4,should be legal,1
+704,62,14,male,white,moderate,4,should be legal,1
+705,75,16,female,white,liberal,2,should be legal,1
+706,33,16,female,white,liberal,2,should be legal,1
+707,58,12,female,white,liberal,2,should be legal,1
+708,21,1,male,white,extremely liberal,1,should not be legal,0
+709,45,14,female,black,liberal,2,should be legal,1
+710,67,12,male,white,conservative,6,should not be legal,0
+711,70,16,female,white,slightly conservative,5,should not be legal,0
+712,35,18,female,white,slightly liberal,3,should be legal,1
+713,79,12,female,white,slightly liberal,3,should be legal,1
+714,69,16,male,white,conservative,6,should not be legal,0
+715,55,13,male,white,moderate,4,should be legal,1
+716,31,16,female,white,slightly conservative,5,should not be legal,0
+717,72,12,male,white,liberal,2,should be legal,1
+718,28,14,female,other,moderate,4,should be legal,1
+719,86,20,male,other,slightly liberal,3,should not be legal,0
+720,24,17,male,black,slightly liberal,3,should be legal,1
+721,62,16,male,white,conservative,6,should not be legal,0
+722,36,12,female,white,slightly conservative,5,should be legal,1
+723,42,12,female,white,moderate,4,should be legal,1
+724,84,19,female,black,moderate,4,should not be legal,0
+725,76,12,female,white,slightly conservative,5,should not be legal,0
+726,51,12,male,white,moderate,4,should be legal,1
+727,39,16,male,white,extremely liberal,1,should be legal,1
+728,58,18,female,white,slightly liberal,3,should be legal,1
+729,57,14,female,black,moderate,4,should be legal,1
+730,76,12,female,white,liberal,2,should be legal,1
+731,33,14,female,white,conservative,6,should be legal,1
+732,84,16,male,white,slightly conservative,5,should be legal,1
+733,25,15,female,white,slightly conservative,5,should be legal,1
+734,72,12,female,other,moderate,4,should be legal,1
+735,80,20,male,white,slightly conservative,5,should be legal,1
+736,60,14,male,white,moderate,4,should be legal,1
+737,80,16,male,white,slightly conservative,5,should be legal,1
+738,68,12,female,black,slightly conservative,5,should be legal,1
+739,36,12,female,white,slightly liberal,3,should be legal,1
+740,68,12,male,white,conservative,6,should not be legal,0
+741,60,19,male,white,slightly liberal,3,should be legal,1
+742,40,17,female,white,slightly liberal,3,should be legal,1
+743,38,16,male,white,liberal,2,should be legal,1
+744,59,14,female,white,slightly liberal,3,should be legal,1
+745,65,12,male,black,moderate,4,should be legal,1
+746,67,12,male,white,slightly liberal,3,should be legal,1
+747,49,16,female,black,slightly liberal,3,should not be legal,0
+748,74,12,male,white,slightly conservative,5,should be legal,1
+749,31,15,male,other,moderate,4,should be legal,1
+750,53,16,female,white,conservative,6,should be legal,1
+751,61,12,female,white,slightly liberal,3,should be legal,1
+752,37,16,female,white,slightly conservative,5,should be legal,1
+753,29,18,female,black,liberal,2,should be legal,1
+754,73,18,male,white,moderate,4,should be legal,1
+755,63,12,male,white,conservative,6,should not be legal,0
+756,36,14,female,white,extremely liberal,1,should be legal,1
+757,81,10,female,white,conservative,6,should be legal,1
+758,67,13,female,white,moderate,4,should not be legal,0
+759,63,13,male,white,moderate,4,should be legal,1
+760,50,15,female,white,conservative,6,should not be legal,0
+761,32,11,female,white,moderate,4,should be legal,1
+762,60,16,female,white,liberal,2,should be legal,1
+763,68,13,female,black,moderate,4,should be legal,1
+764,82,10,male,white,slightly conservative,5,should not be legal,0
+765,52,18,female,white,liberal,2,should be legal,1
+766,57,12,female,black,liberal,2,should not be legal,0
+767,19,12,female,white,liberal,2,should be legal,1
+768,63,13,male,black,slightly liberal,3,should be legal,1
+769,26,16,male,white,moderate,4,should be legal,1
+770,44,16,female,white,moderate,4,should not be legal,0
+771,35,18,female,white,liberal,2,should be legal,1
+772,45,16,female,white,slightly conservative,5,should be legal,1
+773,56,13,female,white,moderate,4,should be legal,1
+774,51,18,female,white,liberal,2,should be legal,1
+775,84,15,male,white,moderate,4,should be legal,1
+776,56,12,male,white,moderate,4,should not be legal,0
+777,22,14,female,white,slightly liberal,3,should be legal,1
+778,23,12,male,other,conservative,6,should be legal,1
+779,26,15,male,white,extremely liberal,1,should be legal,1
+780,89,20,female,white,extremely liberal,1,should be legal,1
+781,76,20,male,white,extremely liberal,1,should be legal,1
+782,67,20,female,white,liberal,2,should be legal,1
+783,59,8,female,white,moderate,4,should be legal,1
+784,48,12,male,black,liberal,2,should be legal,1
+785,59,14,female,white,moderate,4,should be legal,1
+786,19,12,male,other,conservative,6,should be legal,1
+787,51,19,male,white,moderate,4,should not be legal,0
+788,49,18,male,black,moderate,4,should not be legal,0
+789,56,15,male,white,liberal,2,should be legal,1
+790,76,18,male,black,liberal,2,should be legal,1
+791,41,14,female,white,conservative,6,should be legal,1
+792,68,14,female,black,slightly conservative,5,should be legal,1
+794,46,16,male,black,slightly liberal,3,should not be legal,0
+795,53,13,male,white,moderate,4,should be legal,1
+796,35,16,female,white,moderate,4,should be legal,1
+797,55,16,female,white,extremely liberal,1,should be legal,1
+798,27,13,female,white,slightly liberal,3,should be legal,1
+799,68,16,female,white,slightly liberal,3,should be legal,1
+800,66,18,female,white,liberal,2,should be legal,1
+801,65,16,male,black,liberal,2,should be legal,1
+802,72,16,female,white,liberal,2,should be legal,1
+803,31,17,male,white,slightly liberal,3,should be legal,1
+804,69,12,male,white,slightly liberal,3,should be legal,1
+805,59,16,male,white,conservative,6,should be legal,1
+807,72,14,female,white,moderate,4,should be legal,1
+808,61,12,male,white,moderate,4,should be legal,1
+809,58,10,female,white,slightly conservative,5,should not be legal,0
+810,52,18,male,white,slightly conservative,5,should be legal,1
+811,47,13,female,white,moderate,4,should be legal,1
+812,44,17,female,white,slightly liberal,3,should be legal,1
+813,72,17,male,white,slightly conservative,5,should be legal,1
+815,35,17,female,white,liberal,2,should be legal,1
+816,47,20,female,white,extremely liberal,1,should be legal,1
+817,68,14,male,white,moderate,4,should not be legal,0
+818,37,12,female,white,slightly liberal,3,should be legal,1
+819,77,12,female,black,extremely liberal,1,should not be legal,0
+820,30,18,female,other,moderate,4,should be legal,1
+821,77,12,male,white,slightly liberal,3,should not be legal,0
+822,56,12,female,other,moderate,4,should be legal,1
+824,45,17,male,white,conservative,6,should not be legal,0
+825,24,16,male,white,extremely liberal,1,should be legal,1
+826,29,12,female,white,extremely liberal,1,should be legal,1
+827,42,13,female,white,conservative,6,should not be legal,0
+828,29,16,male,white,slightly conservative,5,should be legal,1
+829,67,18,female,white,conservative,6,should not be legal,0
+830,22,15,male,white,extremely liberal,1,should be legal,1
+831,40,16,female,white,moderate,4,should not be legal,0
+832,41,16,female,white,slightly conservative,5,should be legal,1
+833,42,12,female,white,moderate,4,should be legal,1
+834,68,12,female,black,conservative,6,should be legal,1
+835,63,12,female,white,conservative,6,should not be legal,0
+836,40,16,male,white,slightly conservative,5,should be legal,1
+837,45,12,male,black,moderate,4,should be legal,1
+838,26,17,female,white,liberal,2,should be legal,1
+840,38,14,male,white,conservative,6,should be legal,1
+841,85,14,female,white,conservative,6,should not be legal,0
+842,26,16,female,white,liberal,2,should be legal,1
+843,65,16,male,white,conservative,6,should be legal,1
+844,53,16,female,other,moderate,4,should be legal,1
+845,64,12,male,black,extremely liberal,1,should be legal,1
+846,68,12,male,white,slightly conservative,5,should not be legal,0
+847,79,12,female,white,conservative,6,should not be legal,0
+848,25,16,female,white,extremely liberal,1,should be legal,1
+849,57,13,male,black,moderate,4,should be legal,1
+850,81,12,female,white,moderate,4,should not be legal,0
+851,50,14,male,white,moderate,4,should be legal,1
+852,67,12,female,white,conservative,6,should not be legal,0
+853,46,16,female,black,moderate,4,should not be legal,0
+854,31,16,male,white,slightly conservative,5,should be legal,1
+855,56,12,female,black,moderate,4,should be legal,1
+857,33,12,female,white,moderate,4,should be legal,1
+858,62,13,male,white,slightly conservative,5,should be legal,1
+859,47,18,female,white,liberal,2,should be legal,1
+860,69,16,female,white,conservative,6,should not be legal,0
+861,27,12,male,white,moderate,4,should be legal,1
+862,78,18,female,white,liberal,2,should be legal,1
+863,59,12,male,black,moderate,4,should be legal,1
+864,55,6,male,white,moderate,4,should be legal,1
+866,65,16,female,other,conservative,6,should not be legal,0
+867,69,16,male,white,moderate,4,should be legal,1
+868,42,17,male,white,liberal,2,should be legal,1
+869,49,12,female,white,slightly conservative,5,should not be legal,0
+870,80,6,female,white,liberal,2,should be legal,1
+871,62,14,female,white,slightly liberal,3,should not be legal,0
+872,34,16,female,white,liberal,2,should be legal,1
+873,62,16,female,white,extremely liberal,1,should be legal,1
+874,37,14,female,black,moderate,4,should be legal,1
+875,74,19,female,white,liberal,2,should be legal,1
+876,59,19,female,black,extremely liberal,1,should be legal,1
+877,61,16,female,white,liberal,2,should be legal,1
+878,67,20,female,white,extremely liberal,1,should be legal,1
+879,48,16,male,white,slightly liberal,3,should be legal,1
+880,70,18,male,white,moderate,4,should be legal,1
+882,51,16,female,other,liberal,2,should be legal,1
+883,37,16,female,white,conservative,6,should be legal,1
+884,69,17,female,white,slightly liberal,3,should be legal,1
+885,28,16,female,white,slightly conservative,5,should be legal,1
+886,63,18,male,white,slightly conservative,5,should be legal,1
+887,52,17,male,white,moderate,4,should not be legal,0
+888,22,14,male,other,moderate,4,should be legal,1
+889,75,10,female,other,liberal,2,should be legal,1
+890,54,18,female,white,moderate,4,should be legal,1
+891,29,15,female,other,slightly conservative,5,should be legal,1
+892,81,10,female,white,moderate,4,should be legal,1
+893,70,12,female,white,moderate,4,should be legal,1
+894,32,15,female,white,slightly liberal,3,should be legal,1
+895,53,14,male,white,moderate,4,should be legal,1
+896,61,20,male,white,liberal,2,should be legal,1
+897,24,12,female,white,slightly liberal,3,should be legal,1
+898,58,16,male,white,moderate,4,should not be legal,0
+899,68,14,female,white,moderate,4,should be legal,1
+900,73,12,female,white,moderate,4,should not be legal,0
+901,27,12,male,white,moderate,4,should be legal,1
+902,48,15,male,white,liberal,2,should be legal,1
+903,74,16,male,white,slightly conservative,5,should not be legal,0
+904,69,17,female,white,slightly liberal,3,should be legal,1
+905,78,16,female,white,liberal,2,should not be legal,0
+906,37,13,female,white,moderate,4,should be legal,1
+907,45,12,female,white,conservative,6,should be legal,1
+908,29,16,female,white,moderate,4,should be legal,1
+909,29,15,female,black,moderate,4,should be legal,1
+910,34,18,female,other,moderate,4,should not be legal,0
+911,74,14,female,white,slightly conservative,5,should not be legal,0
+912,21,13,female,white,slightly conservative,5,should be legal,1
+913,33,13,male,white,liberal,2,should be legal,1
+914,22,12,male,white,liberal,2,should be legal,1
+915,50,14,female,white,conservative,6,should be legal,1
+916,57,16,male,white,liberal,2,should be legal,1
+917,44,12,male,white,slightly conservative,5,should not be legal,0
+918,42,16,male,other,slightly liberal,3,should be legal,1
+919,54,12,female,white,conservative,6,should be legal,1
+920,32,5,female,white,moderate,4,should be legal,1
+921,62,19,male,white,moderate,4,should not be legal,0
+922,34,14,male,white,slightly liberal,3,should be legal,1
+923,27,16,male,white,conservative,6,should be legal,1
+924,30,14,male,white,moderate,4,should be legal,1
+925,51,18,male,white,conservative,6,should be legal,1
+926,57,18,female,white,slightly conservative,5,should be legal,1
+927,72,17,female,white,liberal,2,should be legal,1
+928,25,14,male,black,moderate,4,should be legal,1
+929,45,16,female,black,slightly liberal,3,should not be legal,0
+930,37,16,male,white,liberal,2,should be legal,1
+931,36,13,male,black,moderate,4,should be legal,1
+932,29,17,male,other,liberal,2,should be legal,1
+933,50,17,male,white,slightly conservative,5,should be legal,1
+934,52,17,female,white,liberal,2,should be legal,1
+935,66,16,male,white,slightly conservative,5,should be legal,1
+936,30,18,female,white,liberal,2,should be legal,1
+937,77,20,male,white,conservative,6,should be legal,1
+938,49,19,female,white,moderate,4,should be legal,1
+939,74,16,male,white,extremely liberal,1,should be legal,1
+940,67,14,male,white,liberal,2,should be legal,1
+941,69,16,male,white,conservative,6,should not be legal,0
+942,67,12,female,white,moderate,4,should be legal,1
+943,74,16,female,white,conservative,6,should not be legal,0
+944,35,14,female,white,slightly liberal,3,should be legal,1
+945,28,14,female,black,slightly liberal,3,should be legal,1
+946,59,16,male,white,conservative,6,should be legal,1
+947,30,18,male,white,moderate,4,should be legal,1
+948,46,20,female,white,liberal,2,should be legal,1
+950,60,16,female,white,liberal,2,should be legal,1
+951,38,18,female,other,liberal,2,should not be legal,0
+952,75,12,male,white,conservative,6,should not be legal,0
+953,40,16,male,black,moderate,4,should be legal,1
+954,28,16,female,white,slightly liberal,3,should be legal,1
+955,64,12,female,white,moderate,4,should be legal,1
+956,48,12,female,white,slightly conservative,5,should be legal,1
+957,53,16,male,white,slightly conservative,5,should be legal,1
+958,66,16,female,white,slightly liberal,3,should be legal,1
+959,25,12,female,white,liberal,2,should be legal,1
+961,56,12,female,white,conservative,6,should be legal,1
+962,43,10,male,other,moderate,4,should not be legal,0
+963,68,18,male,white,slightly conservative,5,should be legal,1
+964,75,17,female,white,liberal,2,should be legal,1
+965,39,16,male,white,slightly liberal,3,should be legal,1
+966,45,17,female,black,slightly liberal,3,should be legal,1
+967,34,16,male,white,liberal,2,should be legal,1
+968,36,19,male,white,liberal,2,should not be legal,0
+969,48,11,female,white,conservative,6,should be legal,1
+970,50,13,male,white,moderate,4,should be legal,1
+971,57,18,male,white,conservative,6,should be legal,1
+972,59,16,male,other,slightly conservative,5,should be legal,1
+973,33,17,male,white,extremely liberal,1,should be legal,1
+974,25,16,female,white,slightly conservative,5,should not be legal,0
+975,28,12,male,other,slightly liberal,3,should be legal,1
+976,32,20,female,white,liberal,2,should be legal,1
+977,26,12,female,white,moderate,4,should be legal,1
+978,31,16,female,other,slightly liberal,3,should not be legal,0
+979,79,12,male,white,conservative,6,should not be legal,0
+980,28,13,female,other,slightly liberal,3,should be legal,1
+981,24,16,female,white,liberal,2,should be legal,1
+982,51,18,male,white,moderate,4,should be legal,1
+983,38,12,female,white,moderate,4,should be legal,1
+984,32,12,female,white,moderate,4,should be legal,1
+985,44,16,male,white,liberal,2,should be legal,1
+986,76,15,male,white,conservative,6,should be legal,1
+988,70,16,male,white,moderate,4,should be legal,1
+989,64,16,female,white,moderate,4,should be legal,1
+990,24,16,male,white,moderate,4,should be legal,1
+991,29,14,female,white,conservative,6,should be legal,1
+992,74,20,female,white,conservative,6,should not be legal,0
+993,58,14,male,white,slightly conservative,5,should be legal,1
+994,38,16,female,white,liberal,2,should be legal,1
+995,38,16,female,white,moderate,4,should be legal,1
+996,44,14,female,white,moderate,4,should be legal,1
+997,39,19,female,white,extremely liberal,1,should be legal,1
+998,71,18,male,white,liberal,2,should be legal,1
+999,48,12,male,white,moderate,4,should be legal,1
